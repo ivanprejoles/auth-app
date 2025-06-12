@@ -34,13 +34,19 @@ This is the backend API built with **Node.js**, **Express**, and **MongoDB** for
 ## 🚀 Getting Started
 
 
-### 1. Install Dependencies
+### 1. Change Location
+
+```bash
+cd server
+```
+
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 2. Create `.env` File
+### 3. Create `.env` File
 
 Create a `.env` file in the project root:
 
