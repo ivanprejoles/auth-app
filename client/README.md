@@ -14,7 +14,6 @@ Welcome! This is my submission for your ReactJS challenge. The project is a comp
 - 🚪 Logout functionality
 - 🌐 Axios + TanStack Query for API integration
 - 🎨 Tailwind CSS for styling
-- 🧠 Zustand for global auth state
 - 📁 Environment-based API URL with `.env`
 
 ---
@@ -33,11 +32,10 @@ Welcome! This is my submission for your ReactJS challenge. The project is a comp
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Change Location
 
 ```bash
-git clone https://github.com/your-username/react-auth-challenge.git
-cd react-auth-challenge
+cd client
 ```
 
 ### 2. Install Dependencies
