@@ -83,7 +83,6 @@ JWT_SECRET=myjson-web-token
 - ✅ Login with JWT authentication
 - ✅ Protected API routes using token
 - ✅ Frontend auth state managed with Zustand
-- ✅ Form validation with React Hook Form + Zod
 - ✅ Axios + TanStack Query for frontend API interaction
 - ✅ Tailwind CSS styling
 
